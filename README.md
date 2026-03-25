@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="500"/>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF2E63&center=true&vCenter=true&lines=AI+Developer;Full+Stack+Engineer;Code+with+Discipline;Mastery+is+a+Path+⚔️" />
 </p>
 
